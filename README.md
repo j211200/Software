@@ -1,5 +1,5 @@
-﻿# Client
-protake  servercat chemist  wakeout receptacle mix colorful ifttt 
+# Client
+
 ## System
 
 ### Clean
@@ -12,7 +12,6 @@ protake  servercat chemist  wakeout receptacle mix colorful ifttt
 - [Clash](https://github.com/Dreamacro/clash)：VMess, Shadowsocks, Trojan, Snell protocol support for remote connections
 
 ### Hareware
-
 
 - [Tuba](http://www.tbtool.cn/)：开源、免费、绿色、纯净的硬件检测工具合集
 - [Intel Extreme Tuning Utility](https://downloadcenter.intel.com/download/29183/Intel-Extreme-Tuning-Utility-Intel-XTU-)：Intel XTU is a Windows*-based performance-tuning software that enables novice and experienced enthusiasts to overclock, monitor, and stress a system
@@ -41,8 +40,9 @@ protake  servercat chemist  wakeout receptacle mix colorful ifttt
 ### Efficiency
 
 - [Keyboard Maestro](http://www.keyboardmaestro.com/)：Keyboard Maestro enables you to create or record custom macro shortcuts that you can activate at any time
+- [IFTTT](https://ifttt.com/):Get started with _IFTTT_, the easiest way to do more with your favorite apps and devices for free. Make your home more relaxing.
 
-### Download
+### Downloader
 
 - [DownKyi](https://github.com/leiurayer/downkyi)：一个简单易用的哔哩哔哩视频下载工具
 
@@ -167,23 +167,25 @@ protake  servercat chemist  wakeout receptacle mix colorful ifttt
 - [SOLIDWORKS](https://www.solidworks.com/)：SOLIDWORKS is a leading 3D CAD software for design, analysis and product data management
 - [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview)：Integrated CAD, CAM, and CAE featuring collaborative editing and cloud-based computation. Free license available for students and hobbyists
 
-### 3D Printing
+## Development
 
-- [Cura](http://software.ultimaker.com/)：Cura aims to be a end solution for personal 3D printing with RepRap based machines
+### Server
 
-## Code
+- [Servercat](https://servercat.app/):Linux server status, docker management and ssh client for iOS.
 
 ### IDE
 
 - [Microsoft Visual Studio](https://visualstudio.microsoft.com/):Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft
 
-## Editor
+## Media
 
-### Audition
+### Photograph
+- [MIX](https://apps.apple.com/us/app/mix-photo-editor-filters/id913947918):MIX is an easy-to-use, professional photo editing tool for photography lovers. Featuring powerful editing tools, cinema-grade color toning, and creative functions such as the one-touch Magic Sky edit and poster templates, it’s time to express yourself through your photos with MIX.
+- [Protake](https://apps.apple.com/us/app/protake-mobile-cinema-camera/id1498431506):Protake brings the filmmaking experience of professional cinema cameras to your mobile devices.
+
+### Media Manager
 
 - [Spek](http://spek.cc/)：Spek helps to analyse your audio files by showing their spectrogram
-
-## Archive
 
 ### Music
 
@@ -212,7 +214,29 @@ protake  servercat chemist  wakeout receptacle mix colorful ifttt
 
 - [Telegram](https://telegram.org/)：Telegram is a messaging app with a focus on speed and security. It’s superfast, simple, and free. It is like SMS, but more powerful
 
-# Server
+## Education
+
+### Experiment
+
+-[CHEMIST](https://apps.apple.com/us/app/chemist-by-thix/id440666387):Experiment with various lab equipment, procedures, and chemicals with complete freedom—no need to buy chemicals or clean up afterwards. Perfect for testing, exploring, learning, or just playing around.
+
+## Lifestyle
+
+### Healthy
+
+- [Wakeout](https://wakeout.app/):Learn how to reduce back & neck pain, prevent burnout and more. Office desk exercises, physical activity breaks. Defeat sedentary lifestyle.
+
+### Weather
+
+-[彩云天气](https://apps.apple.com/cn/app/%E5%BD%A9%E4%BA%91%E5%A4%A9%E6%B0%94/id847764912)：彩云天气是基于气象雷达图，利用人工智能算法进行分钟级降水预报的全球先驱者。
+
+## Finance
+
+### Property
+
+- [Receptacle]:(https://apps.apple.com/us/app/receptacle-record-your-life/id1528455562):The storage house is a (free) application, which is mainly used to record the location information and characteristic information of living articles to prevent the loss of articles.
+
+# Self-Hosted
 
 ## Media
 
@@ -229,3 +253,47 @@ protake  servercat chemist  wakeout receptacle mix colorful ifttt
 ##  Development
 
 - [Gitea](https://gitea.io/)：Community managed fork of Gogs, lightweight code hosting solution
+- ### [GitLab](https://alternativeto.net/software/gitlab/):Web-based git repository management with wiki, code reviews, issue-tracking and CI/CD pipeline.
+
+##  Game
+
+- [Gameyfin](https://alternativeto.net/software/gameyfin/):Automatically scans your game library folder and downloads additional metadata from IGDB,Access your library via your Web-Browser,Download games directly from your browser,LAN-friendly (everything is cached locally),Native Docker support (alternatively it's only one .jar file to run on bare metal),Light and dark theme.
+
+## File Manager
+
+- [Krusader](https://alternativeto.net/software/krusader/):Krusader is an advanced twin panel (commander style) file manager for KDE Plasma and other desktops in the *nix world.
+- [Nextcloud](https://alternativeto.net/software/nextcloud/):A safe home for all your data – Access & share your files, calendars, contacts, mail & more from any device, on your terms.
+
+## Downloader
+
+- [qBittorrent](https://alternativeto.net/software/qbittorrent/):qBittorrent runs and provides the same features on all major platforms.
+- [Bazarr](https://alternativeto.net/software/bazarr/):Bazarr is a companion application to Sonarr and Radarr that manages and downloads subtitles based on your requirements.
+-  [Jackett](https://alternativeto.net/software/jackett/):Jackett is a single repository of maintained indexer scraping & translation logic - removing the burden from other apps.
+- [Lidarr](https://alternativeto.net/software/lidarr/):Lidarr is a music collection manager for downloading and organizing music libraries. It is a fork of Sonarr designed for music.
+- [Prowlarr](https://alternativeto.net/software/prowlarr/):Prowlarr is an indexer manager/proxy to integrate with your various PVR apps. Prowlarr supports management of both Torrent Trackers and Usenet Indexers. It integrates seamlessly with Lidarr, Mylar3, Radarr, Readarr, and Sonarr.
+- [Readarr](https://alternativeto.net/software/readarr/):Readarr is an ebook and audiobook collection manager for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new books from your favorite authors and will grab, sort, and rename them. Note that only one type of a given book is supported. If you want both an audiobook and ebook of a given book you will need multiple instances.
+- [Radarr](https://alternativeto.net/software/radarr/):A fork of Sonarr designed to work with Movies.
+- [Sonarr](https://alternativeto.net/software/sonarr/):Sonarr (formerly NzbDrone) is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sorts and renames them. It can also be configured to automatically upgrade the quality of files already downloaded when a better quality format becomes available.
+
+## Reader
+
+- [FreshRSS](https://alternativeto.net/software/freshrss/):FreshRSS is a free, self-hosted RSS aggregator. It is quite lightweight, fast (it can manage +100k articles without complaining) and powerful (e.g. shortcuts, filters, responsive design, multi-views, multi-themes, multi-users, statistics, provides a Google Reader API, etc.).
+- [阅读](https://github.com/hectorqin/reader)：阅读 3 服务器版，桌面端，iOS 可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。
+
+## Website
+
+- [DokuWiki](https://alternativeto.net/software/dokuwiki/):DokuWiki is a standards compliant, simple to use Wiki, mainly aimed at creating documentation of any kind. It is targeted at developer teams, workgroups and small companies. It has a simple but powerful syntax which makes sure the datafiles remain readable outside the Wiki and eases the creation of structured texts. All data is stored in plain text files – no database is required.
+- [MediaWiki](https://alternativeto.net/software/mediawiki/):MediaWiki is a free software wiki package written in PHP, originally for use on Wikipedia. It is now used by several other projects of the non-profit Wikimedia Foundation and by many other wikis, including this website, the home of MediaWiki.
+- [WordPress](https://alternativeto.net/software/wordpress/):WordPress is open source software you can use to create a beautiful website, blog, or app.
+
+## Authenticator
+
+- [Bitwarden](https://alternativeto.net/software/bitwarden--free-password-manager/):Bitwarden is the easiest and safest way to store your logins and passwords across all of your devices (iOS, Android, Chrome, Firefox, Opera, Windows, Mac, Linux, and more). Bitwarden is FREE and open source.
+
+## Home Automation
+
+- [Home-Assistant](https://home-assistant.io/):Home Assistant is an open-source home automation platform running on Python 3. Track and control all devices at home and automate control. Installation in less than a minute.
+
+
+
+
